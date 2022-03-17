@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/DonL44/micro-manager#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
     "inquirer": "^8.2.1",
     "mysql": "^2.18.1"
   }
