@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/DonL44/micro-manager/issues"
   },
-  "homepage": "https://github.com/DonL44/micro-manager#readme"
+  "homepage": "https://github.com/DonL44/micro-manager#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1"
+  }
 }
