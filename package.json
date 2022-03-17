@@ -1,0 +1,24 @@
+{
+  "name": "micro-manager",
+  "version": "1.0.0",
+  "description": "As a business owner I want to be able to view and manage the departments, roles, and employees in my company. So that I can organize and plan my business",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonL44/micro-manager.git"
+  },
+  "keywords": [
+    "micro",
+    "manager"
+  ],
+  "author": "Don L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonL44/micro-manager/issues"
+  },
+  "homepage": "https://github.com/DonL44/micro-manager#readme"
+}
