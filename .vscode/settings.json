@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "micro-manager",
+            "database": "micro-manager",
+            "username": "DonL44",
+            "password": "3Spacejam0"
+        }
+    ]
+}
