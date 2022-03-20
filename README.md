@@ -4,13 +4,13 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ## Screenshot
 
-![Screenshot](assets\media\micro-manager.png)
+![Screenshot](https://github.com/DonL44/micro-manager/blob/7782d5f4fb06ba86ad68e2269b44ed0b9e57a91a/assets/media/micro-manager.png)
 
 - [Live Link to Demo](https://drive.google.com/file/d/1XgQ3jtgrlF175R8vNgQ9NquAVo14rC74/view)
 
 ## Demo 
 
-![Demo](assets\media\micro-manager.gif)
+![Demo](https://github.com/DonL44/micro-manager/blob/7782d5f4fb06ba86ad68e2269b44ed0b9e57a91a/assets/media/micro-manager.gif)
 
 ## Description
 * Functional application.
@@ -52,10 +52,6 @@ So that I can organize and plan my business
 7. run node server.js
 8. make sure server.js is connected to SQL before continuing
 9. run through prompts as required 
-
-## Repository
-
-  - [Project Repo]()
 
 ## Contributions
 1. ![GitHub license](https://img.shields.io/badge/Made%20by-%40EdenKhaos-orange)
