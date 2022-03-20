@@ -222,12 +222,12 @@ function promptInsert(rolesChoices) {
         message: "What is the employee's roles?",
         choices: rolesChoices
       },
-      {
-        name: "manager_id",
-        type: "list",
-        message: "What is the employee's manager_id?",
-        choices: manager
-      }
+      // {
+      //   name: "manager_id",
+      //   type: "list",
+      //   message: "What is the employee's manager_id?",
+      //   choices: manager
+      // }
     ])
     .then(function (answer) {
       console.log(answer);
