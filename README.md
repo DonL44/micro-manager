@@ -2,6 +2,10 @@
 
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
+## Screenshot
+
+![Screenshot](assets\media\micro-manager.png)
+
 - [Live Link to Demo](https://drive.google.com/file/d/1XgQ3jtgrlF175R8vNgQ9NquAVo14rC74/view)
 
 ## Demo 
